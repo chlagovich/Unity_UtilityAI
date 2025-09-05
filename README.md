@@ -19,3 +19,8 @@ A simple modular **Utility AI framework** for Unity that allows AI agents to mak
 - NPCs that adapt to changing environments.  
 - AI agents that coordinate using a shared world state.  
 - Complex decision-making with sequenced actions and memory-driven logic.  
+
+
+## License  
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
